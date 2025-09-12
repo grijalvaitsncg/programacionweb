@@ -10,3 +10,22 @@ body{
     height: 70px;
     background-color: rgba(25, 25, 175, 0.355);
 }
+#header #title{
+    width: 200px;
+    height: 30px;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+div#columna2{
+    background-color: #2f2f2f;
+    height: 400px;
+}
+div#columna2 div.cuadrito{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+    margin-left: 10px;
+    float: left;
+}
